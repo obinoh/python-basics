@@ -1,0 +1,10 @@
+secret_number=7
+while true:
+gues==int(input("guess the number:
+if guess> secret_number:
+print("too high')
+elif guess, secret_number:
+print("too low)
+else:
+print( " correct! you guessed it."
+break
